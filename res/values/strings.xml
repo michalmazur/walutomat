@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Walutomat</string>
+    <string name="current_rates">Current Rates</string>
+    <string name="currency_pair">Currency Pair</string>
+    <string name="purchase">Purchase</string>
+    <string name="sale">Sale</string>
+    <string name="rate">Rate</string>
+    <string name="refresh">Refresh</string>
+    <string name="connection_failure">Could not connect to walutomat.pl. Please make sure that the device has Internet access and try again.</string>
+    <string name="html_parse_failure">Could not extract current rates from walutomat.pl.</string>
+    <string name="loading">Loading</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="ok">OK</string>
+
+</resources>

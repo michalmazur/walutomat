@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Walutomat</string>
+    <string name="current_rates">Aktualne oferty</string>
+    <string name="currency_pair">Waluta</string>
+    <string name="purchase">Skup</string>
+    <string name="sale">Sprzedaż</string>
+    <string name="rate">Kurs</string>
+    <string name="refresh">Odśwież</string>
+    <string name="connection_failure">Próba nawiązania połączenia ze stroną walutomat.pl nie powiodła się. Upewnij się, że urządzenie ma dostęp do Internetu, następnie spróbuj ponownie.</string>
+    <string name="html_parse_failure">Próba odczytania kursów walut ze strony walutomat.pl nie powiodła się.</string>
+    <string name="loading">Ładowanie</string>
+    <string name="please_wait">Proszę czekać...</string>
+    <string name="ok">OK</string>
+
+</resources>
